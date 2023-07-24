@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    align-items:start;
+    justify-content:left
+  }
+  header{
+    background-color:rgb(8, 20, 70) ;
+    color: white;
+    
+  }
+  
+  footer{
+    background-color:rgb(8, 20, 70) ;
+    align-content: center;
+    color: white; 
+  }
+  .image {
+    flex-basis: 40%
+  }
+  
+  .text {
+    font-size: 20px;
+    justify-content:left;
+    padding-left: 20px;
+
+  }
